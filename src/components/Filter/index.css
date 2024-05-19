@@ -1,0 +1,20 @@
+.filter-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    margin-bottom: 20px;
+    padding: 0px 3rem;
+}
+
+/*  .input-filter{
+    width: 100%;
+    margin-bottom: 2rem;
+}  */
+
+.filter-buttons{
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+    margin: 1rem 0px 2rem 0px;
+}

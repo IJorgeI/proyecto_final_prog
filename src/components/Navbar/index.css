@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF7901;
+    color: #fff;
+    height: 3.5rem;
+}
+
+ul {
+    display: flex;
+    gap: 1rem;
+}

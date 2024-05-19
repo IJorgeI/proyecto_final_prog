@@ -1,0 +1,33 @@
+li{
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 0.7rem;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-icon{
+    margin-right: 0.8rem;  
+}
+
+.submenu {
+    margin-left: 20px; /* Adjust as needed */
+    list-style-type: none;
+  }
+  
+  .submenu li a {
+    text-decoration: none;
+    color: inherit;
+    padding: 5px 0;
+    display: block;
+  }
